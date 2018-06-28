@@ -1,0 +1,11 @@
+E:\C# PROGRAM CODES\calculatortyto\calculatortyto\obj\Debug\netcoreapp2.1\calculatortyto.csprojAssemblyReference.cache
+E:\C# PROGRAM CODES\calculatortyto\calculatortyto\obj\Debug\netcoreapp2.1\calculatortyto.csproj.CoreCompileInputs.cache
+E:\C# PROGRAM CODES\calculatortyto\calculatortyto\obj\Debug\netcoreapp2.1\calculatortyto.AssemblyInfoInputs.cache
+E:\C# PROGRAM CODES\calculatortyto\calculatortyto\obj\Debug\netcoreapp2.1\calculatortyto.AssemblyInfo.cs
+E:\C# PROGRAM CODES\calculatortyto\calculatortyto\bin\Debug\netcoreapp2.1\calculatortyto.deps.json
+E:\C# PROGRAM CODES\calculatortyto\calculatortyto\bin\Debug\netcoreapp2.1\calculatortyto.runtimeconfig.json
+E:\C# PROGRAM CODES\calculatortyto\calculatortyto\bin\Debug\netcoreapp2.1\calculatortyto.runtimeconfig.dev.json
+E:\C# PROGRAM CODES\calculatortyto\calculatortyto\bin\Debug\netcoreapp2.1\calculatortyto.dll
+E:\C# PROGRAM CODES\calculatortyto\calculatortyto\bin\Debug\netcoreapp2.1\calculatortyto.pdb
+E:\C# PROGRAM CODES\calculatortyto\calculatortyto\obj\Debug\netcoreapp2.1\calculatortyto.dll
+E:\C# PROGRAM CODES\calculatortyto\calculatortyto\obj\Debug\netcoreapp2.1\calculatortyto.pdb
